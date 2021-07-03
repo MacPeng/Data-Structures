@@ -5,4 +5,5 @@ This repo includes some useful data structures implementation and contains some 
 * Queue
 * BST
 * Graph
-* 
+* Hash
+* Heap
