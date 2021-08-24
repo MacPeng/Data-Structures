@@ -7,8 +7,8 @@ This repo includes some useful data structures implementation and contains some 
 * Graph
 * Hash
 * Heap
-* Dynamic Programming
-etc
+* Dynamic Programming 
+etc.
 
 
 
