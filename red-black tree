@@ -10,3 +10,10 @@ Most of the BST operations (e.g., search, max, min, insert, delete.. etc) take O
 The cost of these operations may become O(n) for a skewed Binary tree. If we make sure that the height of the tree remains O(log n) after 
 every insertion and deletion, then we can guarantee an upper bound of O(log n) for all these operations. 
 The height of a Red-Black tree is always O(log n) where n is the number of nodes in the tree. 
+
+
+
+Sr. No.	  Algorithm	Time Complexity
+Search	  O(log n)
+Insert	  O(log n)
+Delete	  O(log n)
