@@ -1,1 +1,6 @@
+***Properties of B-Tree: 
+
+1. All leaves are at the same level.
+2. A B-Tree is defined by the term minimum degree ‘t’. The value of t depends upon disk block size.
+3. Every node except root must contain at least (ceiling)([t-1]/2) keys. The root may contain minimum 1 key.
 
