@@ -3,4 +3,7 @@
 1. All leaves are at the same level.
 2. A B-Tree is defined by the term minimum degree ‘t’. The value of t depends upon disk block size.
 3. Every node except root must contain at least (ceiling)([t-1]/2) keys. The root may contain minimum 1 key.
+4. All nodes (including root) may contain at most t – 1 keys.
+5. Number of children of a node is equal to the number of keys in it plus 1.
+6. All keys of a node are sorted in increasing order. The child between two keys k1 and k2 contains all keys in the range from k1 and k2.
 
